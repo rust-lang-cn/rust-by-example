@@ -12774,11 +12774,11 @@ msgstr "当遇到 `Err` 时，有两种可行的处理方式："
 
 #: src/error/result/enter_question_mark.md:9
 msgid "`panic!` which we already decided to try to avoid if possible"
-msgstr "1. 使用 `panic!`（我们已经决定尽可能避免这种方式）"
+msgstr "使用 `panic!`（我们已经决定尽可能避免这种方式）"
 
 #: src/error/result/enter_question_mark.md:10
 msgid "`return` because an `Err` means it cannot be handled"
-msgstr "2. 使用 `return`（因为 `Err` 表示无法处理该错误）"
+msgstr "使用 `return`（因为 `Err` 表示无法处理该错误）"
 
 #: src/error/result/enter_question_mark.md:12
 msgid ""
