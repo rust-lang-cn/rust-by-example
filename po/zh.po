@@ -11921,10 +11921,6 @@ msgstr "基于之前的柠檬水示例，我们明确使用 panic 策略来执�
 msgid "// You shouldn't drink too much sugary beverages.\n"
 msgstr "// 你不应该喝太多含糖饮料。\n"
 
-#: src/error/abort_unwind.md:11
-msgid "\"abort\""
-msgstr "\"中止\""
-
 #: src/error/abort_unwind.md:12 src/error/abort_unwind.md:37
 msgid "\"This is not your party. Run!!!!\""
 msgstr "\"这不是你的派对。快跑！！！！\""
